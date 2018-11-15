@@ -4,7 +4,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.ModelAttribute;
-import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import project.persistence.entities.User;
@@ -42,7 +41,9 @@ public class UserController {
 
         // Save the User that we received from the form
         userService.save(user);
-
+        
+        //model.addAttribute("user", new User());
+        
         // Return the view
         return "profile/Profile";
     }

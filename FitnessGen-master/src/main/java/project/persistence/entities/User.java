@@ -3,11 +3,11 @@ package project.persistence.entities;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "user")
+@Table(name = "userInfo")
 public class User{
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-	private long id;
+	private Long id;
     
 	private String userName;
 	private String password;
@@ -17,14 +17,14 @@ public class User{
 	private int height;
 	
 	public User() {
-	};
+	}
 	
 	//Get and Set functions for User
-	public long getId() {
+	public Long getId() {
 		return id;
 	}
 
-	public void setId(long id) {
+	public void setId(Long id) {
 		this.id = id;
 	}
 
@@ -76,12 +76,12 @@ public class User{
 		this.height = height;
 	}
 
-	@Override
+	/*@Override
     public String toString() {
         return String.format(
                 "User and password[userName=%s, password=%s]",
                 userName,password);
-    }
+    }*/
 	
 
 }

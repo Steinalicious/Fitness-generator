@@ -6,8 +6,6 @@ import project.persistence.entities.User;
 import project.persistence.repositories.UserRepository;
 import project.service.UserService;
 
-import java.util.Collections;
-import java.util.List;
 
 @Service
 public class UserServiceImplementation implements UserService {
