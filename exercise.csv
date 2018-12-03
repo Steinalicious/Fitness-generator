@@ -1,0 +1,73 @@
+id,met,description,difficulty,name,reps,sets,type,video
+1,8,Do a bench press,Easy,Bench press,12,3,Chest,https://www.youtube.com/watch?v=gRVjAtPip0Y
+2,8,Do a Incline bench press,Easy,Incline bench press,12,3,Chest,
+3,8,Do a One arm chest press,Easy,One arm chest press,12,3,Chest,https://www.youtube.com/watch?v=uVmRqrTcHyc
+4,8,Do a DB fly,Easy,DB fly,12,3,Chest,https://www.youtube.com/watch?v=eozdVDA78K0
+5,8,Do a Dips,Easy,Dips,12,3,Chest,https://www.youtube.com/watch?v=sM6XUdt1rm4
+6,8,Do a Plate press,Easy,Plate press,12,3,Chest,https://www.youtube.com/watch?v=1DK6qYRFurw
+7,8,Do a Push ups,Easy,Push ups,12,3,Chest,
+8,8,Do a Bicep curls,Easy,Bicep curls,12,3,Bicep,https://www.youtube.com/watch?v=sAq_ocpRh_I
+9,8,Do a Hammer curls,Easy,Hammer curls,12,3,Bicep,https://www.youtube.com/watch?v=zC3nLlEvin4
+10,8,Do a Preacher curls,Easy,Preacher curls,12,3,Bicep,
+11,8,Do a Incline curls,Easy,Incline curls,12,3,Bicep,https://www.youtube.com/watch?v=soxrZlIl35U
+12,8,Do a Bicep curls (eccentric load),Easy,Bicep curls (eccentric load),12,3,Bicep,
+13,8,Do a Chin ups,Easy,Chin ups,12,3,Bicep,https://www.youtube.com/watch?v=brhRXlOhsAM
+14,8,Do a Chin ups hold,Easy,Chin ups hold,12,3,Bicep,
+15,8,Do a Reverse curls,Easy,Reverse curls,12,3,Bicep,https://www.youtube.com/watch?v=didEQUuieRQ
+16,8,Do a Cable push downs,Easy,Cable push downs,12,3,Tricep,https://www.youtube.com/watch?v=2-LAMcpzODU
+17,8,Do a Reverse cable push downs,Easy,Reverse cable push downs,12,3,Tricep,
+18,8,Do a Dips,Easy,Dips,12,3,Tricep,https://www.youtube.com/watch?v=sM6XUdt1rm4
+19,8,Do a Scull crushers,Easy,Scull crushers,12,3,Tricep,https://www.youtube.com/watch?v=d_KZxkY_0cM
+20,8,Do a Bench press (narrow grip),Easy,Bench press (narrow grip),12,3,Tricep,
+21,8,Do a Push ups (narrow hands/diamond push ups),Easy,Push ups (narrow hands/diamond push ups),12,3,Tricep,
+22,8,Do a exercise,Easy,Seated cable row,12,3,Back,https://www.youtube.com/watch?v=GZbfZ033f74
+23,8,Do a exercise,Easy,T-bar row,12,3,Back,https://www.youtube.com/watch?v=j3Igk5nyZE4
+24,8,Do a exercise,Easy,Bent over barbell row,12,3,Back,https://www.youtube.com/watch?v=9efgcAjQe7E
+25,8,Do a exercise,Easy,Pull ups,12,3,Back,https://www.youtube.com/watch?v=ylVmNQlKdAI
+26,8,Do a exercise,Easy,Lat pulldowns,12,3,Back,https://www.youtube.com/watch?v=CAwf7n6Luuc
+27,8,Do a exercise,Easy,One armed row,12,3,Back,
+28,8,Do a exercise,Easy,Deadlift,12,3,Back,https://www.youtube.com/watch?v=7Q_GnXm7LbI
+29,8,Do a exercise,Easy,Back extensions (GHD or other),12,3,Back,https://www.youtube.com/watch?v=xMyFXMZ6Ch0
+30,8,Do a exercise,Easy,Shrugs (traps),12,3,Back,
+31,8,Do a exercise,Easy,Military press,12,3,Shoulders,https://www.youtube.com/watch?v=2yjwXTZQDDI
+32,8,Do a exercise,Easy,Strict press,12,3,Shoulders,
+33,8,Do a exercise,Easy,Side lateral raise,12,3,Shoulders,https://www.youtube.com/watch?v=3VcKaXpzqRo
+34,8,Do a exercise,Easy,Front raise,12,3,Shoulders,
+35,8,Do a exercise,Easy,Reverse fly ,12,3,Shoulders,
+36,8,Do a exercise,Easy,YTWL raises (Standing or on incline bench face down),12,3,Shoulders,https://www.youtube.com/watch?v=zZJwUSHo5Ak
+37,8,Do a exercise,Easy,Sit ups,12,3,Abs,
+38,8,Do a exercise,Easy,Leg raises,12,3,Abs,https://www.youtube.com/watch?v=hdng3Nm1x_E
+39,8,Do a exercise,Easy,Heel touches,12,3,Abs,
+40,8,Do a exercise,Easy,Toes to bar / Knees to chest,12,3,Abs,https://www.youtube.com/watch?v=_03pCKOv4l4
+41,8,Do a exercise,Easy,V ups,12,3,Abs,
+42,8,Do a exercise,Easy,Hollow rocks,12,3,Abs,
+43,8,Do a exercise,Easy,Hollow hold,12,3,Abs,
+44,8,Do a exercise,Easy,Plank (with variations),12,3,Abs,
+45,8,Do a exercise,Easy,Bent knee hip raises with twist (obliques),12,3,Abs,
+46,8,Do a exercise,Easy,Side crunch,12,3,Abs,
+47,8,Do a exercise,Easy,Dragon fly,12,3,Abs,https://www.youtube.com/watch?v=04FvC4JcisU
+48,8,Do a exercise,Easy,Window washers,12,3,Abs,https://www.youtube.com/watch?v=FWd_IxnrOtI
+49,8,Do a exercise,Easy,L sit,12,3,Abs,
+50,8,Do a exercise,Easy,Calf raise,12,3,Calves,https://www.youtube.com/watch?v=YMmgqO8Jo-k
+51,8,Do a exercise,Easy,Seated calf raise,12,3,Calves,
+52,8,Do a exercise,Easy,Single leg calf raise,12,3,Calves,
+53,8,Do a exercise,Easy,Jump rope,12,3,Calves,
+54,8,Do a exercise,Easy,Squat,12,3,Quads,https://www.youtube.com/watch?v=1oed-UmAxFs
+55,8,Do a exercise,Easy,Bulgarian split squat,12,3,Quads,https://www.youtube.com/watch?v=2C-uNgKwPLE
+56,8,Do a exercise,Easy,Step ups,12,3,Quads,
+57,8,Do a exercise,Easy,Leg extensions,12,3,Quads,
+58,8,Do a exercise,Easy,Kick back machine,12,3,Quads,
+59,8,Do a exercise,Easy,Lunges,12,3,Quads,
+60,8,Do a exercise,Easy,Hamstring,12,3,Quads,
+61,8,Do a exercise,Easy,Hamstring curls,12,3,Quads,https://www.youtube.com/watch?v=1Tq3QdYUuHs
+62,8,Do a exercise,Easy,Deadlift,12,3,Quads,https://www.youtube.com/watch?v=7Q_GnXm7LbI
+63,8,Do a exercise,Easy,Romanian deadlift,12,3,Quads,https://www.youtube.com/watch?v=JCXUYuzwNrM
+64,8,Do a exercise,Easy,Single leg deadlift,12,3,Quads,
+65,8,Do a exercise,Easy,Floor glute ham raise,12,3,Quads,
+66,8,Do a exercise,Easy,Hip thrusters,12,3,Glutes,https://www.youtube.com/watch?v=SEdqd1n0cvg
+67,8,Do a exercise,Easy,Kick backs / Donkey kicks,12,3,Glutes,
+68,8,Do a exercise,Easy,Run,12,3,Burn,
+69,8,Do a exercise,Easy,Row,12,3,Burn,
+70,8,Do a exercise,Easy,Bike,12,3,Burn,
+71,8,Do a exercise,Easy,Burpees,12,3,Burn,
+72,8,Do a exercise,Easy,Jump rope,12,3,Burn,
