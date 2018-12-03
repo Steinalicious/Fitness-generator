@@ -34,7 +34,7 @@ public class SignUpController {
     
     @RequestMapping(value = "/signup", method = RequestMethod.POST)
     public String signUpViewPost(@ModelAttribute("user") User user, Model model){
-
+    	//saves User to database
     	signupService.save(user);
 
         // Return the view

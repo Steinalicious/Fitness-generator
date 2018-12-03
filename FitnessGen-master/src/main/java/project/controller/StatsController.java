@@ -1,13 +1,10 @@
 package project.controller;
 
-import org.springframework.beans.factory.annotation.Autowired;
+
 import org.springframework.stereotype.Controller;
-import org.springframework.ui.Model;
+
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.bind.annotation.RequestParam;
-
-import project.service.StringManipulationService;
 
 @Controller
 public class StatsController {
@@ -18,6 +15,8 @@ public class StatsController {
     // method is called
     @RequestMapping(value = "/stats", method = RequestMethod.GET)
     public String statsViewGet(){
+    	
+    	//Methods to be implemented
 
     	//Return the view
         return "stats/Stats";

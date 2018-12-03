@@ -3,9 +3,6 @@ package project.persistence.repositories;
 import java.util.List;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.data.jpa.repository.Query;
-
-import project.persistence.entities.Exercise;
 import project.persistence.entities.Workout;
 
 
@@ -19,6 +16,7 @@ import project.persistence.entities.Workout;
 public interface WorkoutRepository extends JpaRepository<Workout, Long> {
     
     List<Workout> findByName(String name);
+    
     List<Workout> findAll();
     
 

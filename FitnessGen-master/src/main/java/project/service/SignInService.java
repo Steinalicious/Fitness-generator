@@ -12,7 +12,11 @@ public interface SignInService {
      * @return {@link User} that was saved
      */
 	 List<User> findByName(String name);
-	 
+	 /**
+	  * Find One {@link name}
+	  * @param name {@link name} to be found
+	  * @return {@link User} that was Fpund
+	  */
 	 User findOne(String name);
 		 
 

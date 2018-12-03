@@ -1,7 +1,5 @@
 package project.persistence.entities;
 
-import java.util.List;
-
 import javax.persistence.*;
 
 @Entity
@@ -48,8 +46,5 @@ public class Workout{
 	public void setName(String name) {
 		this.name = name;
 	}
-
-	
-	
 
 }

@@ -1,2 +1,3 @@
-# Fitness Generator
-jiomol
+# Fitness Generator(unfinished)
+
+a fitness program
